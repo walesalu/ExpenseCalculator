@@ -13,7 +13,7 @@ Adewale Salu
 The use of JavaScript to do simple calculations in HTML
 
 ### View Project:
-https://github.com/walesalu/ExpenseCalculator
+https://walesalu.github.io/ExpenseCalculator/
 
 ### Lessons Learned in the Assignment:
 1. How to make use of JavaScript in HTML
