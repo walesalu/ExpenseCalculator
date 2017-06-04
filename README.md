@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 4, 2017
 
 ### Student Name:  
-(First and Last Name)
+Adewale Salu
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The use of JavaScript to do simple calculations in HTML
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/walesalu/ExpenseCalculator
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to make use of JavaScript in HTML
+2. How to use parseFloat to convert srtings to numbers
+3. How to use getElementByID() to return contents of an element. 
 
